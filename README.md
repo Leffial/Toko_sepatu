@@ -1,5 +1,8 @@
 # Toko_sepatu
 
+Saat ini kebutuhan sepatu dikalangan muda sangat digemari. 
+Saya melihat disosial media bahwa banyak sekali orang-orang mencari sepatu terutama sepatu lokal.
+
 Bisnis prosessnya antara lain:
 
 - User/pembeli mendaftar terlebih dulu
