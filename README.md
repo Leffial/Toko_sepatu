@@ -1,7 +1,9 @@
 # Toko_sepatu
+Aplikasi desktop ini membantu orang untuk membeli sepatu dengan produk lokal
+Ada dua pelaku utama dalam desktop ini yaitu admin dan user.dimana admin sebagai penjual
+dan user sebagai pembeli
 
-Bisnis prosessnya antara lain:
-
+Cara Penggunaannya:
 - User/pembeli mendaftar terlebih dulu
 - setelah sukses mendaftar user masuk kebagian login untuk masuk kebagian penjualan
 - dibagian penjualan user bebas memilih barang yang tersedia untuk dibeli
