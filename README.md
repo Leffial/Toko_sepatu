@@ -3,15 +3,18 @@
 Saat ini kebutuhan sepatu dikalangan muda sangat digemari. 
 Saya melihat disosial media bahwa banyak sekali orang-orang mencari sepatu terutama sepatu lokal.
 
-Bisnis prosessnya antara lain:
+Hal yang dibutuhkan:
+-Python 3
+-MongoDb
+-tkinter -> pip install tkinter
 
-- User/pembeli mendaftar terlebih dulu
-- setelah sukses mendaftar user masuk kebagian login untuk masuk kebagian penjualan
-- dibagian penjualan user bebas memilih barang yang tersedia untuk dibeli
-- user memesan barang yang telah dipilih
-- masuk ke bagian pembayaran
-- dibagian pembayaran user harus mengisi form terlebih dahulu seperti,nama,alamat,dll
-- klik pesan
-- setelah pesan dikirimkan lalu admin menerima form dan uang yang telah dibayarkan
-- admin mengirim pesan bahwa "pesanan sukses"
-- Terakhir barang siap dikirimkan kepada user
+Cara menjalankan program:
+
+-Download semua hal yang dibutuhkan
+#run db.py
+#jalankan main.py
+#masukkan
+->username:user,password:user
+->username:admin,password:admin
+
+Gunakan fitur pesan dengan menulis sesuai yang ada didalam list
